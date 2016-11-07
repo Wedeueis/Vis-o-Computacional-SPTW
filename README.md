@@ -13,5 +13,5 @@ edge_detector - aplicação do algoritmo de Canny disponível no opencv para det
 face_detector - aplicação do classificador haar cascade disponível no opencv.
 
 ###Contador de Ciclistas
-Aplicação opensource desenvolvida pelo LabProdam para contar os ciclistas que passam na ciclovia, código disponível em https://github.com/LabProdam/ContadorDeCiclistas
+Aplicação opensource desenvolvida pelo LabProdam para contar ciclistas que passam na ciclovia, código disponível em https://github.com/LabProdam/ContadorDeCiclistas
 
